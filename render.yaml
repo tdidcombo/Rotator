@@ -1,8 +1,0 @@
-services:
-  - type: web
-    name: transtv
-    env: php
-    plan: free
-    buildCommand: ""
-    startCommand: ""
-    staticPublishPath: public
